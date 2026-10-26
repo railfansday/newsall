@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /database.sqlite
+
+Sitemap: https://railfansday.github.io/newsall/sitemap.xml
